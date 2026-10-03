@@ -4,6 +4,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "ULTRON Orb UI",
   description: "An Iron Man-inspired holographic orb built with Three.js and Next.js",
+  openGraph: {
+    title: "ULTRON Orb UI",
+    description: "An Iron Man-inspired holographic orb built with Three.js and Next.js",
+  },
 };
 
 export const viewport: Viewport = {
